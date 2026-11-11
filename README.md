@@ -7,4 +7,4 @@ Interested in **LLMs, agentic AI, natural language processing, knowledge graphs,
 
 Previously worked on conversational AI agents at **PraxiPal** and trustworthy AI research at **Vrije Universiteit Amsterdam**.
 
-- [LinkedIn](https://www.linkedin.com/in/davidpaulmark/)
+[LinkedIn](https://www.linkedin.com/in/davidpaulmark/)
